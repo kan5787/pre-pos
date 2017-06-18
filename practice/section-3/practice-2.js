@@ -9,6 +9,5 @@ function createUpdatedCollection(collectionA, objectB) {
       }
     }
   }
-  console.log(collectionA);
   return collectionA;
 }
