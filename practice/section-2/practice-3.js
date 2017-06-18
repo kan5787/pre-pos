@@ -25,7 +25,6 @@ function countSameElements(collection) {
       if(char.length===1){
         res.push({name: char, summary: 1})
       }
-
     }
   }
   return res;
